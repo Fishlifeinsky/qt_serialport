@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/end.png</file>
+        <file>image/start.png</file>
+        <file>image/refresh.png</file>
+        <file>image/serialPort.png</file>
+        <file>image/clean.png</file>
+        <file>image/set.png</file>
+        <file>image/file.png</file>
+    </qresource>
+</RCC>
